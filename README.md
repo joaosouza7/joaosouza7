@@ -1,6 +1,10 @@
 
 ### Olá, eu sou o João Souza 👋
 
+- 🎓 Graduando em Sistemas para Internet
+- 🌱 Estudando React JS | React Native
+- 📧 Entre em contato: joaoosouza07@gmail.com
+
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaossouza07)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosouzadesenvolvedorweb)
 
@@ -18,6 +22,3 @@
 </br>
 
 Motivado e sempre em constante evolução, atualmente cursando o 5º Período em Sistemas para Internet no Instituto Federal de Brasília - IFB.
-
-## Entre em contato:
-📧 E-mail: joaoosouza07@gmail.com
