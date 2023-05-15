@@ -1,31 +1,51 @@
 
 ### Olá, eu sou o João Souza 👋
 
-- 🎓 Formado em Sistemas para Internet
-- 🌱 Estudando React JS | React Native 
-- 📧 Entre em contato: joaoosouza07@gmail.com
+- 🎓 Graduado em Sistemas para Internet
+- 🌱 Estudando React 
+- 😄 Entre em contato: 
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joaossouza07)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaosouzadesenvolvedorweb)
+[![Portfolio][portfolio-shield]][portfolio-url]
+[![Email][gmail-shield]][gmail-url]
+[![Instagram][instagram-shield]][instagram-url]
+[![Linkedin][linkedin-shield]][linkedin-url]
 
-![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=onedark)
+<div>
+    <a href="https://github.com/joaosouza7">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=dracula" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=dracula" />
+    </a>
+</div>
 
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"></br>
-    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-    <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="React Native" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-    <img align="center" alt="Node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center" alt="HTML" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img align="center" alt="CSS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img align="center" alt="Java Script" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="React" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img align="center" alt="Typescript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img align="center" alt="Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img align="center" alt="SASS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     
 </div>
 </br>
 
-Desenvolvedor Front-End iniciante em constante aprimoramento, formado em Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
+Aspirante a Desenvolvedor Front-End em constante evolução, recém graduado em Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
 
-Apaixonado por tecnologia e buscando primeira oportunidade na área a fim de aperfeiçoar meus conhecimentos e adquirir experiência profissional. 
+Apaixonado por tecnologia e por desenvolver soluções para problemas reais através da programação.
 
-Atualmente estudando e me aperfeiçoando em ReactJS, React Native, Javascript, TypeScript, NodeJS, entre outras tecnologias que uso na criação de aplicações web/mobile.
+Atualmente estudando e me aperfeiçoando em React, TypeScript, Node, entre outras tecnologias que uso na criação de aplicações web/mobile.
+
+<!--LINKS E IMAGENS-->
+
+[portfolio-shield]: https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https://portfolio-joaosouza7.vercel.app/
+[portfolio-url]: https://portfolio-joaosouza7.vercel.app/
+[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
+[instagram-url]: https://instagram.com/joaossouza07
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/joaosouzadesenvolvedorweb
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[gmail-url]: mailto:joaoosouza07@gmail.com
+
