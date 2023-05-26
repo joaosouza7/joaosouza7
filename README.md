@@ -12,8 +12,8 @@
 
 <div>
     <a href="https://github.com/joaosouza7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=dracula" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=dracula" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=tokyonight&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
     </a>
 </div>
 
@@ -27,16 +27,16 @@
     <img align="center" alt="Typescript" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
     <img align="center" alt="Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="SASS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-    <img align="center" alt="Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Next" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
     
 </div>
 </br>
 
-Aspirante a Desenvolvedor Front-End em constante evolução, recém graduado em Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
+Aspirante a Desenvolvedor Front-End em constante evolução, recém graduado no Curso de Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
 
 Apaixonado por tecnologia e por desenvolver soluções para problemas reais através da programação.
 
-Atualmente estudando e me aperfeiçoando em React, TypeScript, Node, entre outras tecnologias que uso na criação de aplicações web/mobile.
+Evoluindo e me aperfeiçoando exponencialmente em React.js, TypeScript, Node.js, entre outras tecnologias que uso na criação de aplicações web/mobile.
 
 <!--LINKS E IMAGENS-->
 
