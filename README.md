@@ -12,7 +12,7 @@
 
 <div>
     <a href="https://github.com/joaosouza7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=tokyonight&count_private=true" />
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=tokyonight" />
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
     </a>
 </div>
