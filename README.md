@@ -1,7 +1,7 @@
 
 ### Olá, eu sou o João Souza 👋
 
-- 🎓 Graduado em Sistemas para Internet
+- 🎓 Desenvolvedor de sistemas
 - 🌱 Estudando React 
 - 😄 Entre em contato: 
 
@@ -10,10 +10,15 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 
-<div>
+<div align="center">
     <a href="https://github.com/joaosouza7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&show_icons=true&theme=tokyonight" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
+        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joaosouza7&theme=tokyo-night&hide_border=true&show_icons=true" />
+        <br />
+        <br />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaosouza7&langs_count=8&theme=tokyonight&custom_title=Coding%20Time%20(Last%207%20days)&range=all_time&cache_seconds=14400" />
+        <br />
+        <br />
+        <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
     </a>
 </div>
 
@@ -28,15 +33,16 @@
     <img align="center" alt="Node" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="SASS" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
     <img align="center" alt="Next" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img align="center" alt="Express.js" width="40" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
     
 </div>
 </br>
 
-Aspirante a Desenvolvedor Front-End em constante evolução, recém graduado no Curso de Tecnologia em Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
+Desenvolvedor Front-End em constante evolução, recém graduado no Curso de Sistemas para Internet pelo Instituto Federal de Brasília (IFB). 
 
 Apaixonado por tecnologia e por desenvolver soluções para problemas reais através da programação.
 
-Evoluindo e me aperfeiçoando exponencialmente em React.js, TypeScript, Node.js, entre outras tecnologias que uso na criação de aplicações web/mobile.
+Evoluindo e me aperfeiçoando exponencialmente em React, TypeScript, Node, entre outras tecnologias que uso na criação de aplicações web/mobile.
 
 <!--LINKS E IMAGENS-->
 
@@ -48,4 +54,3 @@ Evoluindo e me aperfeiçoando exponencialmente em React.js, TypeScript, Node.js,
 [linkedin-url]: https://www.linkedin.com/in/joaosouzadesenvolvedorweb
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:joaoosouza07@gmail.com
-
