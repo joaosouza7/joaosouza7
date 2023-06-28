@@ -10,14 +10,9 @@
 [![Instagram][instagram-shield]][instagram-url]
 [![Linkedin][linkedin-shield]][linkedin-url]
 
-<div align="center">
+<div>
     <a href="https://github.com/joaosouza7">
-        <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=joaosouza7&theme=tokyo-night&hide_border=true&show_icons=true" />
-        <br />
-        <br />
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaosouza7&langs_count=8&theme=tokyonight&custom_title=Coding%20Time%20(Last%207%20days)&range=all_time&cache_seconds=14400" />
-        <br />
-        <br />
         <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
     </a>
 </div>
@@ -51,6 +46,6 @@ Evoluindo e me aperfeiçoando exponencialmente em React, TypeScript, Node, entre
 [instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
 [instagram-url]: https://instagram.com/joaossouza07
 [linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/joaosouzadesenvolvedorweb
+[linkedin-url]: https://www.linkedin.com/in/joao-souza07/
 [gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:joaoosouza07@gmail.com
