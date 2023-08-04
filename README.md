@@ -12,6 +12,8 @@
 <div align="center">
     <a href="https://github.com/joaosouza7">
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
+        <br/>
+        <br/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaosouza7&langs_count=8&theme=tokyonight&custom_title=Coding%20Time%20(Last%207%20days)&range=all_time&cache_seconds=14400" />
     </a>
 </div>
