@@ -20,13 +20,13 @@
 
 ## 👨🏻‍💻 About Me
 
-🎯 Tive meu primeiro contato com programação aos 16 anos de idade, quando tive curiosidade em relação a como os sites eram criados. Depois de muitas dificuldades consegui, finalmente, compreender minimamente como tudo era feito. Ver como tudo poderia ser customizado apenas com linhas de código me fascinou profundamente. A partir desse momento, decidi que queria trabalhar com isso, queria desenvolver soluções para problemas reais através da programação - queria ser um desenvolvedor.
+🎯 Tive meu primeiro contato com programação aos 19 anos de idade, quando tive curiosidade em relação a como os sites eram criados. Depois de muitas dificuldades consegui, finalmente, compreender minimamente como tudo era feito. Ver como tudo poderia ser customizado apenas com linhas de código me fascinou profundamente. A partir desse momento, decidi que queria trabalhar com isso, queria desenvolver soluções para problemas reais através da programação.
 
 🎓 No segundo semestre de 2019, iniciei uma graduação no curso de Sistemas para Internet, no Instituto Federal de Educação, Ciência e Tecnologia de Brasília, um pouco antes da pandemia do COVID 19 atingir o mundo. Isso impactou negativamente em alguns aspectos da minha vida na época, mas com muito esforço e dedicação, apesar de algumas pausas, consegui concluir o curso com êxito.
 
-🚀 Atualmente tenho como principal foco as áreas de desenvolvimento Web e Mobile, com pretensão de extensão ao Back-End futuramente. Utilizo a stack do JavaScript (React, React Native e Node) para desenvolvimento de soluções.
+🚀 Atualmente tenho como principal foco a área de desenvolvimento Web, com pretensão de extensão ao Back-End futuramente. Utilizo a stack do JavaScript (React, React Native e Node) para desenvolvimento de soluções.
 
-🐶 Sou apaixonado por animais, especialmente cachorros, e costumo ler, jogar videogames e praticar atividade física no meu tempo livre. Além de me divertir, me ajudar a esvaziar a cabeça e me concentrar melhor 😁.
+🐶 Sou apaixonado mitologia e por animais, especialmente cachorros, e costumo ler, jogar videogames e praticar atividade física no meu tempo livre.
 
 ## 🛠 Tech Stack
 
@@ -48,19 +48,7 @@
 <div style="display: inline_block">
     <img align="center" alt="Node" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
     <img align="center" alt="PostgreSQL" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Firebase" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
     <img align="center" alt="Express.js" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    
-</div>
-
-### ⚙️ Outras ferramentas:
-
-<div style="display: inline_block">
-    <img align="center" alt="VScode" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-    <img align="center" alt="Android Studio" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-    <img align="center" alt="Figma" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-    <img align="center" alt="Chrome" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" />
-    <img align="center" alt="Firefox" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firefox/firefox-original.svg" />
     
 </div>
 </br>
