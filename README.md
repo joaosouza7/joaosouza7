@@ -1,65 +1,72 @@
-## 👋 Olá, eu sou o João, um desenvolvedor Front-End apaixonado por tecnologia!
+<p align="center">
+  <img src="./assets/banner.png" alt="Banner Profile" />
+</p>
 
 <div align="center">
 
-[![Instagram][instagram-shield]][instagram-url]
-[![Portfolio][portfolio-shield]][portfolio-url]
-[![Linkedin][linkedin-shield]][linkedin-url]
 [![Email][gmail-shield]][gmail-url]
+[![Linkedin][linkedin-shield]][linkedin-url]
+[![WhatsApp][whatsapp-shield]][whatsapp-url]
+[![Portfolio][portfolio-shield]][portfolio-url]
 
 </div>
 
-<div align="center">
-    <a href="https://github.com/joaosouza7">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaosouza7&layout=compact&langs_count=16&theme=tokyonight" />
-        <br/>
-        <br/>
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaosouza7&langs_count=8&theme=tokyonight&custom_title=Coding%20Time%20(Last%207%20days)&range=all_time&cache_seconds=14400" />
-    </a>
-</div>
+<img src="./assets/line.png" width="100%" height="3px"/>
 
-## 👨🏻‍💻 About Me
+<p>
 
-🎯 Tive meu primeiro contato com programação aos 19 anos de idade, quando tive curiosidade em relação a como os sites eram criados. Depois de muitas dificuldades consegui, finalmente, compreender minimamente como tudo era feito. Ver como tudo poderia ser customizado apenas com linhas de código me fascinou profundamente. A partir desse momento, decidi que queria trabalhar com isso, queria desenvolver soluções para problemas reais através da programação.
+Olá, como vai?
 
-🎓 No segundo semestre de 2019, iniciei uma graduação no curso de Sistemas para Internet, no Instituto Federal de Educação, Ciência e Tecnologia de Brasília, um pouco antes da pandemia do COVID 19 atingir o mundo. Isso impactou negativamente em alguns aspectos da minha vida na época, mas com muito esforço e dedicação, apesar de algumas pausas, consegui concluir o curso com êxito.
+Sou João Souza, JavaScript/TypeScript Developer 🚀. Apaixonado por tecnologia e tenho como foco principal a área de desenvolvimento Web. Em meu tempo livre, gosto de ler 📚 e brincar com meu pet 🐶
 
-🚀 Atualmente tenho como principal foco a área de desenvolvimento Web, com pretensão de extensão ao Back-End futuramente. Utilizo a stack do JavaScript (React, React Native e Node) para desenvolvimento de soluções.
+#### Um pouco sobre mim:
 
-🐶 Sou apaixonado mitologia e por animais, especialmente cachorros, e costumo ler, jogar videogames e praticar atividade física no meu tempo livre.
+-   💻 Criando sempre novos projetos;
+-   🌱 Estou sempre aprendendo mais sobre React e Next.js;
+-   📕 Sempre que tenho dúvidas, pesquiso, anoto os principais pontos e pratico;
+-   💬 Qualquer dúvida, sinta-se a vontade para entrar em contato, estou à disposição 😄;
 
-## 🛠 Tech Stack
+</p>
 
-### 💻 Front-End:
+<img src="./assets/line.png" width="100%" height="3px"/>
+
+## 🚀 Tech Stack
 
 <div style="display: inline_block">
-    <img align="center" alt="HTML" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" alt="CSS" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img align="center" alt="Java Script" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="Typescript" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    <img align="center" alt="React" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-    <img align="center" alt="Next" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-    <img align="center" alt="Tailwind" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-    <img align="center" alt="SASS" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-303030?style=flat&logo=html5&logoColor=E34F26" />
+    <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-303030?style=flat&logo=css3&logoColor=1572B6" />
+    <img align="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-303030?style=flat&logo=javascript&logoColor=F7DF1E" />
+    <img align="center" alt="Typescript" src="https://img.shields.io/badge/TypeScript-303030?style=flat&logo=typescript&logoColor=3178C6" />
+    <img align="center" alt="React" src="https://img.shields.io/badge/React-303030?style=flat&logo=react&logoColor=7944FF" />
+    <img align="center" alt="Next" src="https://img.shields.io/badge/Next-303030?style=flat&logo=nextdotjs&logoColor=FFFFFF" />
+    <img align="center" alt="Tailwind" src="https://img.shields.io/badge/Tailwind-303030?style=flat&logo=tailwindcss&logoColor=06B6D4" />
+    <img align="center" alt="SASS" src="https://img.shields.io/badge/SASS-303030?style=flat&logo=sass&logoColor=CC6699" />
+    <img align="center" alt="Styled Components" src="https://img.shields.io/badge/Styled_Components-303030?style=flat&logo=styledcomponents&logoColor=DB7093" />
+    <img align="center" alt="React Hook Form" src="https://img.shields.io/badge/React_Hook_Form-303030?style=flat&logo=reacthookform&logoColor=EC5990" />
+    <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-303030?style=flat&logo=firebase&logoColor=FFCA28" />
+    <img align="center" alt="Docker" src="https://img.shields.io/badge/Docker-303030?style=flat&logo=docker&logoColor=2496ED" />
+    <img align="center" alt="Prisma" src="https://img.shields.io/badge/Prisma-303030?style=flat&logo=prisma&logoColor=default" />
+    <img align="center" alt="Node" src="https://img.shields.io/badge/Node-303030?style=flat&logo=nodedotjs&logoColor=339933" />
+    <img align="center" alt="Express" src="https://img.shields.io/badge/Express-303030?style=flat&logo=express&logoColor=default" />
+    <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-303030?style=flat&logo=postgresql&logoColor=4169E1" />
 </div>
 
-### 🎲 Back-End e Banco de dados:
-
-<div style="display: inline_block">
-    <img align="center" alt="Node" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-    <img align="center" alt="PostgreSQL" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-    <img align="center" alt="Express.js" width="38" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-    
-</div>
 </br>
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=joaosouza7&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&custom_title=Status%20do%20Github&cache_seconds=14400&rank_icon=github" />
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=joaosouza7&theme=dark&hide_border=true&locale=pt_BR&date_format=M%20j%5B%2C%20Y%5D&card_width=600&cache_seconds=14400" alt="GitHub Streak" />
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=joaosouza7&langs_count=6&theme=dark&hide_border=true&custom_title=Tempo%20Codando&range=all_time&cache_seconds=14400" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=120&width=100%&section=footer" width="100%"/>
 
 <!--LINKS E IMAGENS-->
 
-[portfolio-shield]: https://img.shields.io/badge/-portfolio-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white
-[portfolio-url]: https://portfolio-joaosouza7.vercel.app/
-[instagram-shield]: https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-[instagram-url]: https://instagram.com/joaossouza07
-[linkedin-shield]: https://img.shields.io/badge/Joao%20Souza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-[linkedin-url]: https://www.linkedin.com/in/joaosouzadesenvolvedorweb
-[gmail-shield]: https://img.shields.io/badge/joaoosouza07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+[portfolio-shield]: https://img.shields.io/badge/-portfolio-302460?style=for-the-badge&logo=alwaysdata&logoColor=white
+[portfolio-url]: https://portfolio-joaosouza7.vercel.app
+[linkedin-shield]: https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+[linkedin-url]: https://www.linkedin.com/in/joao-souza07
+[gmail-shield]: https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white
 [gmail-url]: mailto:joaoosouza07@gmail.com
+[whatsapp-shield]: https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+[whatsapp-url]: https://api.whatsapp.com/send?phone=5561999435633&text=
